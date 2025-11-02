@@ -48,3 +48,22 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+## Features
+
+- Swipe left/right to like or pass users
+- Match users when likes are mutual
+- Chat with matched users
+- QR code scanning to access certain screens (optional)
+- Real-time updates using Firestore
+
+---
+
+## Tech Stack / Languages
+
+- **React Native** with **TypeScript**
+- **Expo** (for building and running the app)
+- **Firebase** (Firestore, Auth, Storage)
+- **JavaScript/TypeScript** for logic and UI
+- **React Navigation** & **Expo Router** for routing
+- **react-native-deck-swiper** for swipe functionality
